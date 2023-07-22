@@ -1,2 +1,2 @@
 # resume
-Password Generation in Frontend Development 
+Password Generator using Frontend Development 
